@@ -110,7 +110,7 @@ function MapComponent() {
           <TileLayer
             attribution='<img src="https://docs.onemap.sg/maps/images/oneMap64-01.png" style="height:20px;width:20px;">
             New OneMap | Map data © contributors, <a href="http://SLA.gov.sg">Singapore Land Authority</a>'
-            url="https://maps-{s}.onemap.sg/v3/Grey/{z}/{x}/{y}.png"
+            url="https://maps-{s}.onemap.sg/v3/Default/{z}/{x}/{y}.png"
           />
           <LayerGroup>
             <CircleMarker
