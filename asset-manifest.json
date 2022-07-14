@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CSC3007-assignment5/static/css/main.073c9b0a.css",
+    "main.js": "/CSC3007-assignment5/static/js/main.797dc2ba.js",
+    "static/js/787.6b7c8974.chunk.js": "/CSC3007-assignment5/static/js/787.6b7c8974.chunk.js",
+    "static/media/logo.svg": "/CSC3007-assignment5/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CSC3007-assignment5/index.html",
+    "main.073c9b0a.css.map": "/CSC3007-assignment5/static/css/main.073c9b0a.css.map",
+    "main.797dc2ba.js.map": "/CSC3007-assignment5/static/js/main.797dc2ba.js.map",
+    "787.6b7c8974.chunk.js.map": "/CSC3007-assignment5/static/js/787.6b7c8974.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.797dc2ba.js"
+  ]
+}
